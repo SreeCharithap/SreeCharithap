@@ -5,7 +5,7 @@
 
 ---
 
-### 🌟 About Me
+### 👤 Who I Am
 
 I'm **Charitha**, a passionate and results-driven AI/ML Developer with expertise in **LLMs, Deepfake Detection, Voice & Video AI**, and **real-time intelligent pipelines**. I specialize in blending deep learning, multimodal reasoning, and scalable systems to solve complex problems.
 
